@@ -1,4 +1,4 @@
 # Medical-Chatbot-LLM-RAG-
 
-LIVE LINK:- http://44.201.111.56:8080/
+LIVE LINK:- http://52.14.109.123:8080/
 
